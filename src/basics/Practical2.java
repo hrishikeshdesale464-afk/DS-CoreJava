@@ -23,6 +23,7 @@ public class Practical2 {
         System.out.println("Emp Name:- " + empname);
         System.out.println("Emp Salary:- " + empsal);
 		
+        System.out.println("EMP");
 		
 	}
 
